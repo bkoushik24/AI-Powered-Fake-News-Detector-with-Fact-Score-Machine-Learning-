@@ -1,0 +1,5 @@
+Title,Prediction,Fact_Score
+"""Nasa confirms water on the moon"".",REAL,60.66
+"""Donald Trump is a Martian.""",FAKE,60.66
+"""Pfizer releases COVID-19 vaccine trial results.""",REAL,60.66
+"""Pope endorses Trump for president.""",FAKE,60.66
