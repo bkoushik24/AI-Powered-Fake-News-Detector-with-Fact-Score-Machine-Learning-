@@ -1,0 +1,5 @@
+Title,Label
+"""Nasa confirms water on the moon"".",REAL
+"""Donald Trump is a Martian.""",FAKE
+"""Pfizer releases COVID-19 vaccine trial results.""",REAL
+"""Pope endorses Trump for president.""",FAKE
